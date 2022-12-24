@@ -1,9 +1,13 @@
-import Say from './Say';
+import EventPractice from './EventPractice';
+// import EventPracticeClass from './EventPracticeClass';
+// import Say from './Say';
 
 const App = () => {
     return (
         <>
-            <Say />
+            {/* <Say /> */}
+            {/* <EventPracticeClass /> */}
+            <EventPractice />
         </>
     );
 };
