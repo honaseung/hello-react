@@ -1,12 +1,32 @@
 import { Component } from 'react';
-import IterationSample from './IterationSample';
+import LifeCycleSample from './LifeCycleSample';
+import ErrorBoundary from './ErrorBoundary';
+// import IterationSample from './IterationSample';
 // import ScrollBox from './ScrollBox';
 // import ValidationSample from './ValidationSmaple';
 // import EventPractice from './EventPractice';
 // import EventPracticeClass from './EventPracticeClass';
 // import Say from './Say';
 
+function getRandomColor() {
+    return '#' + Math.floor(Math.random() * 16777215).toString(16);
+}
+
 class App extends Component {
+    state = {
+        color: '#000000',
+    };
+
+    onClickBtn = () => {
+        this.setState({
+            color: getRandomColor(),
+        });
+    };
+
+    // componentDidCatch(error, info) {
+    //     console.log('componentDidCatch', error, info);
+    // }
+
     render() {
         return (
             <>
@@ -22,7 +42,11 @@ class App extends Component {
                 >
                     밑으로
                 </button> */}
-                <IterationSample />
+                {/* <IterationSample /> */}
+                <button onClick={this.onClickBtn}>랜덤</button>
+                <ErrorBoundary>
+                    <LifeCycleSample color={this.state.color} />
+                </ErrorBoundary>
             </>
         );
     }
