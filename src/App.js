@@ -1,5 +1,6 @@
 import { Component } from 'react';
-import ScrollBox from './ScrollBox';
+import IterationSample from './IterationSample';
+// import ScrollBox from './ScrollBox';
 // import ValidationSample from './ValidationSmaple';
 // import EventPractice from './EventPractice';
 // import EventPracticeClass from './EventPracticeClass';
@@ -13,14 +14,15 @@ class App extends Component {
                 {/* <EventPracticeClass /> */}
                 {/* <EventPractice /> */}
                 {/* <ValidationSample /> */}
-                <ScrollBox ref={(ref) => (this.scrollBox = ref)} />
+                {/* <ScrollBox ref={(ref) => (this.scrollBox = ref)} />
                 <button
                     onClick={() => {
                         this.scrollBox.scrollToBottom();
                     }}
                 >
                     밑으로
-                </button>
+                </button> */}
+                <IterationSample />
             </>
         );
     }
