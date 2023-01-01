@@ -1,7 +1,10 @@
 [test](https://github.com/honaseung/hello-react/blob/2cfb01850b892dc0556eeb28a28d9ed48167fb2f/src/App.js#L1)
 [test2](https://github.com/honaseung/react-router-dom/blob/8f9a305a52b8e5da866b78e9e7e0c33e767217ca/src/App.js#L5)
 # Getting Started with Create React App
-
+<details>
+  <summary>마인드 맵</summary>
+  <img src="https://user-images.githubusercontent.com/53066347/210161556-9b4aa9d0-3c22-425c-8c39-1ac33394d1bb.png" />
+</details>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
