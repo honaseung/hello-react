@@ -26,6 +26,11 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
 
 ### 실구현 어플리케이션
 아래는 리액트를 활용하여 실제로 구현한 어플리케이션들 입니다.
+<ul>
+	<li>
+		<a href="https://github.com/honaseung/news-viewer">뉴스 뷰어</a>
+	</li>
+</ul>
 
 ## 목차
 <details>
