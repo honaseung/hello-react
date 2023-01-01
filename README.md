@@ -34,7 +34,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
 
 ## 목차
 <details>
-  <summary>마인드 맵을 보려면 클릭하세요.</summary>
+  <summary><h1>마인드 맵을 보려면 클릭하세요.</h1></summary>
   <img src="https://user-images.githubusercontent.com/53066347/210162556-4871e40c-34c3-408d-8c5f-de572d115c89.jpg" />
 </details>
 <ul>
