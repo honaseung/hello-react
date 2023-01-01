@@ -46,9 +46,9 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
     		        <li>지속적으로 데이터가 변화하는 대규모 애플리케이션 구축</li>
     		    </ul>
     		</li>
-    	    <li>SPA
+    	    <li><a href="https://github.com/honaseung/hello-react/discussions/56">SPA</a>
     	        <ul>
-    		    <li>html 은 한번만</li>
+    		    <li><a href="https://github.com/honaseung/hello-react/discussions/57">html 은 한번만</a></li>
     		    <li>필요한 데이터만 받아와서 업데이트</li>
     		    <li>기술적으로는 한 페이지, 경험적으로는 여러 페이지</li>
     		</ul>
@@ -57,7 +57,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
     	        <ul>
     	    	    <li>자바스크립트의 라이브러리인 리액트</li>
     	    	    <li>View 만을 신경쓰는 리액트</li>
-    	    	    <li>Virtual DOM 을 이용한 필요한 DOM 만을 업데이트</li>
+    	    	    <li><a href="https://github.com/honaseung/hello-react/discussions/58">Virtual DOM 을 이용한 필요한 DOM 만을 업데이트</a></li>
     	    	</ul>
     	    </li>
         </ul>
@@ -66,18 +66,18 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
     	<ul>
     	    <li>자바스크립트
     		<ul>
-    		    <li>스프레드 연산자
+    		    <li><a href="https://github.com/honaseung/hello-react/discussions/59">스프레드 연산자</a>
     		        <ul>
                             <li>얕은 복사</li>
                         </ul>
                     </li>
     		    <li>화살표 함수
                         <ul>
-    		            <li>function 함수와의 차이</li>
+    		            <li><a href="https://github.com/honaseung/hello-react/discussions/60">function 함수와의 차이</a></li>
                         </ul>
     		    </li>
-                    <li>제너레이터 함수</li>
-    		    <li>프로미스 객체
+                    <li><a href="https://github.com/honaseung/hello-react/discussions/61">제너레이터 함수</a></li>
+    		    <li><a href="https://github.com/honaseung/hello-react/discussions/62">프로미스 객체</a>
                         <ul>
     			    <li>then
     			        <ul>
@@ -89,14 +89,14 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
     			            <li>매개변수로 실패시 callback 함수를 넘긴다.</li>
                                 </ul>
                             </li>
-    			    <li>async/await
+    			    <li><a href="https://github.com/honaseung/hello-react/discussions/63">async/await</a>
                                 <ul>
-    			            <li>async 는 await 을 포함하는 함수 명 앞에 await 은 포함된 Promise 객체 앞에</li>
+    			            <li>async 는 await 을 포함하는 함수 앞에 await 은 포함된 Promise 객체 앞에</li>
                                 </ul>
                             </li>
                         </ul>
                     </li>
-    		    <li>비구조화 할당</li>
+    		    <li><a href="https://github.com/honaseung/hello-react/discussions/64">비구조화 할당</a></li>
                 </ul>
     	    <li>JSX</li>
         </ul>
