@@ -99,7 +99,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                     </li>
     		    <li><a href="https://github.com/honaseung/hello-react/discussions/64">비구조화 할당</a></li>
                 </ul>
-    	    <li>JSX</li>
+    	    <li><a href="https://github.com/honaseung/hello-react/discussions/65">JSX</a></li>
         </ul>
     </li>
     <li>컴포넌트
