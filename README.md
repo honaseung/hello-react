@@ -31,7 +31,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
 		<a href="https://github.com/honaseung/news-viewer">뉴스 뷰어</a>
 	</li>
 	<li>
-		<a href="https://github.com/honaseung/react-blog">블로그</a>
+		<a href="https://github.com/honaseung/react-blog">블로그 형태의 CRUD 구현</a>
 	</li>
 </ul>
 
