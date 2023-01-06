@@ -138,7 +138,6 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                             </li>
                         </ul>
                     </li>
-                </ul>
             </li>
     		<li>state
                 <ul>
@@ -153,7 +152,8 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                 <ul>
     		    	<li>자식 컴포넌트에서 직접 변경 불가</li>
                 </ul>
-            </li>
+          </li>
+          </ul>
     	    <li>함수형 컴포넌트
                 <ul>
     	        	<li>state</li>
