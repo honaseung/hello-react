@@ -107,38 +107,38 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
     	    <li><a href="https://github.com/honaseung/hello-react/discussions/65">JSX</a></li>
         </ul>
     </li>
-    <li>컴포넌트
+    <li><a href="https://github.com/honaseung/hello-react/discussions/67">컴포넌트</a>
     	<ul>
-    	    <li>클래스형 컴포넌트
+    	    <li><a href="https://github.com/honaseung/hello-react/discussions/70">클래스형 컴포넌트</a>
     	    	<ul>
-    	    	    <li>life cycle method
+    	    	    <li><a href="https://github.com/honaseung/hello-react/discussions/69">life cycle method</a>
                         <ul>
-    	    	    	    <li>컴포넌트 생성
+    	    	    	    <li><a href="https://github.com/honaseung/hello-react/discussions/70">컴포넌트 생성</a>
                                 <ul>
-    	    	    		        <li>constructor</li>
-    	    	    		        <li>getDerivedStateFromProps</li>
-    	    	    		        <li>render</li>
-    	    	    		        <li>componentDidMount</li>
+    	    	    		        <li><a href="https://github.com/honaseung/hello-react/discussions/71">constructor</a></li>
+    	    	    		        <li><a href="https://github.com/honaseung/hello-react/discussions/72">getDerivedStateFromProps</a></li>
+    	    	    		        <li><a href="https://github.com/honaseung/hello-react/discussions/73">render</a></li>
+    	    	    		        <li><a href="https://github.com/honaseung/hello-react/discussions/74">componentDidMount</a></li>
                                 </ul>
                             </li>
     	    	    	    <li>컴포넌트 업데이트
                                 <ul>
     	    	    	        	<li>getDerivedStateFromProps</li>
-    	    	    	        	<li>shouldComponentUpdate</li>
+    	    	    	        	<li><a href="https://github.com/honaseung/hello-react/discussions/75">shouldComponentUpdate</a></li>
     	    	    	        	<li>render</li>
-    	    	    	        	<li>getSnapshotBeforeUpdate</li>
-    	    	    	        	<li>componentDidUpdate</li>
+    	    	    	        	<li><a href="https://github.com/honaseung/hello-react/discussions/76">getSnapshotBeforeUpdate</a></li>
+    	    	    	        	<li><a href="https://github.com/honaseung/hello-react/discussions/77">componentDidUpdate</a></li>
                                 </ul>
                             </li>
     	    	    	    <li>컴포넌트 언마운트
                                 <ul>
-    	    	    	        	<li>componentWillUnmount</li>
+    	    	    	        	<li><a href="https://github.com/honaseung/hello-react/discussions/78">componentWillUnmount</a></li>
                                 </ul>
                             </li>
                         </ul>
                     </li>
             </li>
-    		<li>state
+    		<li><a href="https://github.com/honaseung/hello-react/discussions/79">state</a>
                 <ul>
     		    	<li>불변성</li>
                         <ul>
@@ -147,7 +147,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                     </li>
                 </ul>
             </li>
-    		<li>props
+    		<li><a href="https://github.com/honaseung/hello-react/discussions/80">props</a>
                 <ul>
     		    	<li>자식 컴포넌트에서 직접 변경 불가</li>
                 </ul>
@@ -155,17 +155,17 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
           </ul>
     	    <li>함수형 컴포넌트
                 <ul>
-    	        	<li>state</li>
-    	        	<li>pops</li>
-    	        	<li>hooks
+    	        	<li><a href="https://github.com/honaseung/hello-react/discussions/79">state</a></li>
+    	        	<li><a href="https://github.com/honaseung/hello-react/discussions/80">pops</a></li>
+    	        	<li><a href="https://github.com/honaseung/hello-react/discussions/81">hooks</a>
                         <ul>
-    	        		    <li>useState
+    	        		    <li><a href="https://github.com/honaseung/hello-react/discussions/82">useState</a>
                                 <ul>
     	        		        	<li>초기값</li>
     	        		        	<li>set 함수</li>
                                 </ul>
                             </li>
-    	        		    <li>useEffect
+    	        		    <li><a href="https://github.com/honaseung/hello-react/discussions/83">useEffect</a>
                                 <ul>
     	        		        	<li>실행할 함수
                                         <ul>
@@ -180,7 +180,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                                     </li>
                                 </ul>
                             </li>
-    	        		    <li>useReducer
+    	        		    <li><a href="https://github.com/honaseung/hello-react/discussions/84">useReducer</a>
                                 <ul>
     	        		        	<li>액션 객체
                                         <ul>
@@ -201,7 +201,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                                         </ul>
                                     </li>
                                 </ul>
-    	        		    <li>useMemo
+    	        		    <li><a href="https://github.com/honaseung/hello-react/discussions/85">useMemo</a>
                                 <ul>
     	        		        	<li>함수 재호출 방지
                                         <ul>
@@ -211,7 +211,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                                     </li>
                                 </ul>
                             </li>
-    	        		    <li>useCallback
+    	        		    <li><a href="https://github.com/honaseung/hello-react/discussions/86">useCallback</a>
                                 <ul>
     	        		        	<li>함수 재생성 방지
                                         <ul>
@@ -221,7 +221,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                                     </li>
                                 </ul>
                             </li>
-    	        		    <li>useRef
+    	        		    <li><a href="https://github.com/honaseung/hello-react/discussions/87">useRef</a>
                                 <ul>
     	        		        	<li>DOM Ref</li>
     	        		        	<li>렌더링과 관련없는 값</li>
