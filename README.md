@@ -429,7 +429,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                     </li>
                 </ul>
             </li>
-	        <li><<a href="https://github.com/honaseung/hello-react/discussions/106">SCSS</a>
+	        <li><a href="https://github.com/honaseung/hello-react/discussions/106">SCSS</a>
                 <ul>
 	        	    <li>CSS + SASS
                         <ul>
