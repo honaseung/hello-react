@@ -234,9 +234,9 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
             </li>
         </ul>
     </li>
-    <li>라우터
+    <li><a href="https://github.com/honaseung/hello-react/discussions/88">라우터</a>
     	<ul>
-    	    <li>Routes</li>
+    	    <li><a href="https://github.com/honaseung/hello-react/discussions/89">Routes</a></li>
     	    <li>Route
                 <ul>
     		        <li>path</li>
@@ -250,10 +250,10 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                     </li>
                 </ul>
             </li>
-    	    <li>Link
+    	    <li><a href="https://github.com/honaseung/hello-react/discussions/90">Link</a>
                 <ul>
     	        	<li>path</li>
-    	        	<li>NavLink
+    	        	<li><a href="https://github.com/honaseung/hello-react/discussions/91">NavLink</a>
                         <ul>
     	        	    	<li>path</li>
     	        	    	<li>isActive</li>
@@ -263,9 +263,9 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
             </li>
         </ul>
     </li>
-    <li>전역 상태 관리</li>
+    <li><a href="https://github.com/honaseung/hello-react/discussions/92">전역 상태 관리</a></li>
     	<ul>
-    	    <li>Context
+    	    <li><a href="https://github.com/honaseung/hello-react/discussions/93">Context</a>
     	    	<ul>
     	    	    <li>Consumer
                         <ul>
@@ -279,9 +279,9 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                     </li>
                 </ul>
             </li>
-    	    <li>Redux
+    	    <li><a href="https://github.com/honaseung/hello-react/discussions/94">Redux</a>
                 <ul>
-    	    	    <li>action
+    	    	    <li><a href="https://github.com/honaseung/hello-react/discussions/95">action</a>
                         <ul>
     	    	    	    <li>기본값</li>
     	    	    	    <li>객체 생성 함수
@@ -292,14 +292,14 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                             </li>
                         </ul>
                     </li>
-    	    	    <li>dispatch
+    	    	    <li><a href="https://github.com/honaseung/hello-react/discussions/96">dispatch</a>
                         <ul>
     	    	    	    <li>매개변수로 객체 생성 함수를 넘겨준다.</li>
                         </ul>
                     </li>
-    	    	    <li>middleware
+    	    	    <li><a href="https://github.com/honaseung/hello-react/discussions/97">middleware</a>
                         <ul>
-    	    	    	    <li>thunk
+    	    	    	    <li><a href="https://github.com/honaseung/hello-react/discussions/98">thunk</a>
                                 <ul>
     	    	    	    	    <li>thunk 함수
                                         <ul>
@@ -317,7 +317,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                                     </li>
                                 </ul>
                             </li>
-    	    	    	    <li>saga
+    	    	    	    <li><a href="https://github.com/honaseung/hello-react/discussions/99">saga</a>
                                 <ul>
     	    	    	    	    <li>saga 함수
                                         <ul>
@@ -335,7 +335,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                             </li>
                         </ul>
                     </li>
-    	    	    <li>reducer
+    	    	    <li><a href="https://github.com/honaseung/hello-react/discussions/100">reducer</a>
                         <ul>
     	    	    	    <li>state
                                 <ul>
@@ -349,7 +349,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                             </li>
                         </ul>
                     </li>
-    	    	    <li>store
+    	    	    <li><a href="https://github.com/honaseung/hello-react/discussions/101">store</a>
                         <ul>
     	    	    	    <li>createStore
                             <ul>
@@ -371,7 +371,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                             </li>
                         </ul>
                     </li>
-    	    	    <li>connect
+    	    	    <li><a href="https://github.com/honaseung/hello-react/discussions/102">connect</a>
                         <ul>
     	    	        	<li>mapStateToProps
                                 <ul>
@@ -390,7 +390,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                             </li>
                         </ul>
                     </li>
-    	    	    <li>hooks
+    	    	    <li><a href="https://github.com/honaseung/hello-react/discussions/103">hooks</a>
                         <ul>
     	    	    	    <li>useSelector
                                 <ul>
@@ -415,12 +415,12 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
     </li>
     <li>스타일링</li>
     	<ul>
-    	    <li>CSS
+    	    <li><a href="https://github.com/honaseung/hello-react/discussions/104">CSS</a>
     		    <ul>
 		            <li>Cascading Style Sheet</li>
                 </ul>
             </li>
-	        <li>SASS
+	        <li><a href="https://github.com/honaseung/hello-react/discussions/105">SASS</a>
                 <ul>
 	        	    <li>Syntactically Awesome Style Sheet
                         <ul>
@@ -429,7 +429,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
                     </li>
                 </ul>
             </li>
-	        <li>SCSS
+	        <li><<a href="https://github.com/honaseung/hello-react/discussions/106">SCSS</a>
                 <ul>
 	        	    <li>CSS + SASS
                         <ul>
@@ -451,7 +451,7 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
             </li>
         </ul>
     </li>
-    <li>코드 스플리팅과 서버 사이드 렌더링
+    <li><a href="https://github.com/honaseung/hello-react/discussions/107">코드 스플리팅과 서버 사이드 렌더링</a>
     	<ul>
     	    <li>코드 스플리팅
     		    <ul>
