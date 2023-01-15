@@ -39,10 +39,10 @@ label 과 milestone 은 언제든지 자유롭게 추가할 수 있으니 편하
 </ul>
 
 ## 목차
-<details>
-  <summary><h1>마인드 맵을 보려면 클릭하세요.</h1></summary>
+<!-- <details> -->
+<!--   <summary><h1>마인드 맵을 보려면 클릭하세요.</h1></summary> -->
   <img src="https://user-images.githubusercontent.com/53066347/211130361-96905fa1-3b7b-4c9d-b8eb-3d6c78e92836.jpg" />
-</details>
+<!-- </details> -->
 <ul>
     <li>사용해야 하는 이유
     	<ul>
